@@ -1,0 +1,11 @@
+# Venv
+.venv
+
+# Idea
+.idea
+
+# PyCache
+*__pycache__
+
+# Configuration
+.env
